@@ -1,3 +1,4 @@
+import { handleToAPIsImage } from './toapis-images.mjs';
 import fs from 'node:fs';
 import { Buffer } from 'node:buffer';
 
@@ -617,6 +618,7 @@ router.post('/workers-ai/models/embedding', async (request, response) => {
 });
 
 router.post('/generate-image', async (request, response) => {
+    if (request.body.toapis === true) return handleToAPIsImage(request,response);
     try {
         const key = readSecret(request.user.directories, SECRET_KEYS.OPENAI);
 

@@ -1,0 +1,23 @@
+{
+  "task_id": "tsk_img_01M4YT8BJ453YMT6EY9ZDY3X1V",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": 0.015,
+  "status": "completed",
+  "date": "2026-10-15",
+  "prompt": "Character portrait for an original adult fantasy roleplay story: a clearly 30-year-old adult woman scholar wearing a fully closed dark emerald velvet high-collar coat, sitting at an antique library desk with a brass lamp and old books. Calm thoughtful expression, refined cinematic illustration, warm candlelight, shoulders and chest fully covered, no nudity, no sexual activity, no text, no logos, square frame.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "original_output": "examples/gemini-nano-banana-2-1.jpg",
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "source_sha256": "25374b1e5c929c41388a418e0b0c8994eb95e0c7208b65c962f713b3ba58d2b3",
+  "elapsed_seconds": 44.22,
+  "scope": "成人角色生态的非露骨素材：新增ToAPIs服务端处理器 → 现有图片响应形态；完整聊天UI未验收。",
+  "quote_source": "GET /v1/pricing, 2026-10-15",
+  "actual_credits": 3,
+  "charge_source": "Owner-provided backend Task Logs screenshot, 2026-10-15; matched task ID prefix and model; 1 credit = USD 0.005",
+  "charge_confirmed_date": "2026-10-15"
+}

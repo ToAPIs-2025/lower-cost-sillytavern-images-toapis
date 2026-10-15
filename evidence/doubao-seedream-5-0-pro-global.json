@@ -1,0 +1,24 @@
+{
+  "task_id": "tsk_img_01M4YT3XH6CD6WH2MKN5TPES09",
+  "model": "doubao-seedream-5-0-pro-global",
+  "quote_usd": 0.045,
+  "actual_charge_usd": 0.045,
+  "status": "completed",
+  "date": "2026-10-15",
+  "prompt": "Character portrait for an original adult fantasy roleplay story: a clearly 30-year-old adult woman scholar wearing a fully closed dark emerald velvet high-collar coat, sitting at an antique library desk with a brass lamp and old books. Calm thoughtful expression, refined cinematic illustration, warm candlelight, shoulders and chest fully covered, no nudity, no sexual activity, no text, no logos, square frame.",
+  "output": "examples/doubao-seedream-5-0-pro-global.png",
+  "original_output": "examples/doubao-seedream-5-0-pro-global.jpg",
+  "actual_dimensions": [
+    2048,
+    2048
+  ],
+  "original_format": "JPEG",
+  "source_sha256": "3ef503a63b0633b4eb6ef517e3f6e6f302671b471093853c3b72259a2c54c062",
+  "elapsed_seconds": 88.17,
+  "scope": "成人角色生态的非露骨素材：新增ToAPIs服务端处理器 → 现有图片响应形态；完整聊天UI未验收。",
+  "quote_source": "Owner-provided ToAPIs pricing screenshot, 2026-10-15; pricing endpoint returned 503",
+  "content_scope": "Non-explicit, fully clothed adult character; NSFW capability not validated",
+  "actual_credits": 9,
+  "charge_source": "Owner-provided backend Task Logs screenshot, 2026-10-15; matched task ID prefix and model; 1 credit = USD 0.005",
+  "charge_confirmed_date": "2026-10-15"
+}

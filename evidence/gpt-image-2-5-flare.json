@@ -1,0 +1,23 @@
+{
+  "task_id": "tsk_img_01M4YT7VWEH59Q636M9ZVXJB2D",
+  "model": "gpt-image-2.5-flare",
+  "quote_usd": 0.0225,
+  "actual_charge_usd": 0.0225,
+  "status": "completed",
+  "date": "2026-10-15",
+  "prompt": "Character portrait for an original adult fantasy roleplay story: a clearly 30-year-old adult woman scholar wearing a fully closed dark emerald velvet high-collar coat, sitting at an antique library desk with a brass lamp and old books. Calm thoughtful expression, refined cinematic illustration, warm candlelight, shoulders and chest fully covered, no nudity, no sexual activity, no text, no logos, square frame.",
+  "output": "examples/gpt-image-2-5-flare.png",
+  "original_output": "examples/gpt-image-2-5-flare.original.png",
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "source_sha256": "bde85524ff1fdcf3043cb6e6661a205650926bdd688648fb79858dd2957740c2",
+  "elapsed_seconds": 42.03,
+  "scope": "成人角色生态的非露骨素材：新增ToAPIs服务端处理器 → 现有图片响应形态；完整聊天UI未验收。",
+  "quote_source": "GET /v1/pricing, 2026-10-15",
+  "actual_credits": 4.5,
+  "charge_source": "Owner-provided backend Task Logs screenshot, 2026-10-15; matched task ID prefix and model; 1 credit = USD 0.005",
+  "charge_confirmed_date": "2026-10-15"
+}
